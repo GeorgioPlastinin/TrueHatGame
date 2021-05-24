@@ -5,7 +5,7 @@ import itertools
 
 
 
-token = '1416050412:AAGOw3XrQ1DUIENrAaxLGxsZFS0ewC2p_ro'
+token = ''
 bot = telebot.TeleBot(token)
 
 global_admin_dict = {}  # Только для создателей комнаты
